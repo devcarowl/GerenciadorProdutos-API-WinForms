@@ -1,0 +1,31 @@
+## Ignore Visual Studio temporary files, build results, and user settings
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+Log/
+Logs/
+
+## Visual Studio User Settings
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## SQL Server and SQLite databases (Opcional, mas recomendado para não enviar o banco de testes)
+*.db-shm
+*.db-wal
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## VS Code settings
+.vscode/
+

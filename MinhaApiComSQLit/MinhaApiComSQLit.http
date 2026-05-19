@@ -1,0 +1,6 @@
+@MinhaApiComSQLit_HostAddress = http://localhost:5128
+
+GET {{MinhaApiComSQLit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
